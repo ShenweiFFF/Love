@@ -12,7 +12,7 @@ let username = "宝宝";  // 你可以改成任何名字
 // **跳过输入，直接显示表白内容**
 document.addEventListener("DOMContentLoaded", function () {
     confessionContainer.style.display = 'block';  // 直接显示表白页面
-    questionText.innerText = `可以成为我的恋人吗？${username}`; // 显示名字
+    questionText.innerText = `可以不生气了吗？${username}`; // 显示名字
 });
 
 // 记录点击 No 的次数

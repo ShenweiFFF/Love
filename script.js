@@ -7,7 +7,7 @@ let confessionContainer = document.getElementById('confessionContainer');
 let buttonsContainer = document.querySelector('.buttons');
 
 // 固定名字（比如 "。。"）
-let username = "小松宝宝";  // 你可以改成任何名字
+let username = "宝宝";  // 你可以改成任何名字
 
 // **跳过输入，直接显示表白内容**
 document.addEventListener("DOMContentLoaded", function () {
